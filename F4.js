@@ -168,6 +168,9 @@ function timer() {
     }
   });
 }
+function settings() {
+	 document.getElementById("Settings").innerHTML="Volume:";
+}
 
 timer();
 
